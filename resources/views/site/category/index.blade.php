@@ -1,0 +1,1 @@
+Essa página é das categorias da página de produtos.
